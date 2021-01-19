@@ -1,0 +1,2 @@
+00:05:36SYS.PLC Ipso Msg to:PortJHKIF from:PortNone cmd:Cmd2
+00:15:51SYS.HEATER  |0541|Msg to:PortManager from:PortIF cmd:Cmd1
